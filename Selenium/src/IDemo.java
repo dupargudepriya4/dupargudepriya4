@@ -1,5 +1,5 @@
 
 public interface IDemo {
-	public int add(int a);
+	public float add(int a);
 	
 }
