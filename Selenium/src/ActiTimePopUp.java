@@ -33,6 +33,8 @@ public class ActiTimePopUp {
 		//thread timing removed..
 		System.out.println("helloo....");
 		
+		System.out.println("helloo techneai team....");
+		
 		//To print text on console using gettext()
 		System.out.println(driver.findElement(By.xpath("//span[@class='productVersion']")).getText());
 		Thread.sleep(2000);
